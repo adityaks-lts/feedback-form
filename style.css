@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Pixelify+Sans:wght@400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1{
+    text-align: center;
+}
+body{
+    background: radial-gradient( #e0b2e3,#ff0101);
+}
+#form-whole{
+    background-color: #f4f4f4;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 1%;
+    margin: 10px 35% 0px 35%;
+    display: block;
+    font-weight: bold;
+}
+.form-example{
+    padding-bottom: 15px;
+}
+.choose-option{
+    border: 0px;
+    margin: 0%;
+}
+.options{
+    display: inline-block;
+}
+#content{
+    margin: 15px 5px 15px 5px;
+    padding-top: 15px;
+}
+label{
+    margin-left: 10px;
+    display: block;
+}
+input{
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    box-shadow: #f2f2f2 0px 10px 15px -2px,  0px 8px 8px -8px; 
+}
+
+#messege{
+    display: block;
+    margin: auto;
+    height: 6vw;
+width: 26vw;
+}
+#feedback-select{
+
+    display: block;
+    margin: auto;
+    height: 2vw;
+    width: 26.5vw;
+    border-radius: 5px;
+    border: 1px solid #e1e1e1;
+    box-shadow: #f2f2f2 0px 10px 15px -2px,  0px 8px 8px -8px;
+}
+
+#submit-button{
+    color: #f4f4f4;
+    padding: 10px 20px 10px 20px;
+    display: block;
+    margin: auto;
+    background-color: #4cb050;
+}
+.single-line-input{
+    display: block;
+    margin: auto;
+    height: 2vw;
+    width: 25vw;
+}
+#rating{
+padding-bottom: 10px;
+}
